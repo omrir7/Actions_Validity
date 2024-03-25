@@ -43,9 +43,7 @@ With a dataset comprising 1118 transcripts, each tagged with action validity, my
         Bert.py                                         Bert Training and preparing the data
     
         Bert_Prepared_Data/                             Bert data saved after processing it to match bert
-    
-        Trained_Models/                                 all trained models
-    
+        
         Eval_Models.py                                  script to evaluate all trained models
 
     
@@ -54,8 +52,6 @@ With a dataset comprising 1118 transcripts, each tagged with action validity, my
         SetFit.py                                       Setfit training
     
         SetFit_Prepared_Data/                           setfit data
-    
-        Trained_Models/                                 setfit trained models
-    
+        
         Eval_Models.py                                  script to evaluate all trained models
     
