@@ -38,7 +38,7 @@ With a dataset comprising 1118 transcripts, each tagged with action validity, my
         val_dataset_bert.pickle                         splitted
 
   
--   Bert/
+-   Bert_No_Models/
   
         Bert.py                                         Bert Training and preparing the data
     
@@ -47,7 +47,7 @@ With a dataset comprising 1118 transcripts, each tagged with action validity, my
         Eval_Models.py                                  script to evaluate all trained models
 
     
--   SetFit
+-   SetFit_No_Models/
 
         SetFit.py                                       Setfit training
     
