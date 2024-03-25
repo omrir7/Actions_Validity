@@ -1,6 +1,9 @@
 # Actions_Validity
 With a dataset comprising 1118 transcripts, each tagged with action validity, my objective was to develop a system capable of accurately identifying and validating action occurrence. 
 
+# System Overview
+
+![image](https://github.com/omrir7/Actions_Validity/assets/71921802/114f78e9-106e-4360-8b0f-89d2c3bc2c8f)
 
 # Project Structure:
 
