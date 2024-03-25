@@ -1,6 +1,8 @@
 # Actions_Validity
 With a dataset comprising 1118 transcripts, each tagged with action validity, my objective was to develop a system capable of accurately identifying and validating action occurrence. 
-* I haven't uploaded the the trained models due to their sizes. If you want to run the full project you should:
+* I haven't uploaded the the trained models due to their sizes.
+
+  * If you want to run the full project you should:
   1. Download the required libraries from requieremnts.txt
   2. Train one of the models, you better choose SetFit.
   3. In order to train an instance of SetFit you should run SetFit.py which located in the SetFit Dir.
